@@ -1,0 +1,74 @@
+header {
+    background-color: #9d00b0;
+    padding: 20px;
+  }
+  
+  /* Estilos para el logo */
+  .logo {
+    display: inline-block;
+  }
+  
+  .logo img {
+    width: 100px; /* Ajusta el ancho según el tamaño de tu logo */
+    height: auto;
+  }
+  
+  /* Estilos para el menú de navegación */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+    text-align: justify;
+  }
+  
+  a{
+    color: #fff;
+  }
+  nav li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+  }
+  
+
+  nav,li, a:hover{
+    color: #988630;
+    cursor: pointer
+
+}
+/* header{
+background-color: #9d00b0;
+padding: 20px;
+}
+
+.logo {
+    display: inline-block;
+}
+.logo img{
+    width: 100px;
+    height: auto;
+}
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+a {
+color: #fff;
+text-decoration: none;
+}
+nav,li, a:hover{
+    color: #988630;
+    cursor: pointer
+
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  } */
